@@ -17,7 +17,10 @@ Writing: News writing, Feature writing, Opinion writing
 
 Languages: English, Arabic, French 
 
-| Employer            | Job Description |
-| --------------------|-----------------|
-| Content Cell        | Content Cell    |
-| Content Cell        | Content Cell    |
+| Employer            | Job Description                                                 |
+| --------------------|-----------------------------------------------------------------|
+| California Magazine | -Write an opinion column for the magazine's quarterly publication
+|                     |  related to timely topics concerning the UC Berkeley community  
+|                     | -Published six articles pertaining to scientific research at UC 
+|                     |  Berkeley, student activism and film
+|
