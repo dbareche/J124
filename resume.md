@@ -19,13 +19,13 @@ Languages: English, Arabic, French
 
 | Employer            | Job Description                                                 |
 | --------------------|-----------------------------------------------------------------|
-| California Magazine | -Write an opinion column for the magazine's quarterly publication
+| California Magazine | * Write an opinion column for the magazine's quarterly publication
 |                     |  related to timely topics concerning the UC Berkeley community  
-|                     | -Published six articles pertaining to scientific research at UC 
+|                     | * Published six articles pertaining to scientific research at UC 
 |                     |  Berkeley, student activism and film
-| The Daily Californian| -Write articles two times a week on 24-hour deadlines pertaining to
+| The Daily Californian| * Write articles two times a week on 24-hour deadlines pertaining to
 |                      |  scientific research at UC Berkeley
-|                      | -Trained four reporters in writing, interviewing and fact-checking
-|Ta'leef Collective    | -Managed the organization's social media presence by 
+|                      | * Trained four reporters in writing, interviewing and fact-checking
+|Ta'leef Collective    | * Managed the organization's social media presence by 
 |                      | creating daily posts on Instagram, Twitter and Facebook
-|                      | -Wrote weekly emails and newsletters 
+|                      | * Wrote weekly emails and newsletters 
